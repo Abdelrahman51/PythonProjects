@@ -32,7 +32,16 @@ while page_still_valid:
     books = books_and_authors[::2]
     authors = books_and_authors[1::2]
 
+
 # Test the application 
-books[3] # You can see the number of book you want to garp it and write his number-1
-#or 
-authors[3] # You can see the number of book you want to garp name of his author it and write his number-1
+#books[3] # You can see the number of book you want to garp it and write his number-1
+ 
+#authors[3] # You can see the number of book you want to garp name of his author it and write his number-1
+
+#To see list by all books 
+#book
+
+#To see list by all authors
+#authors
+
+#Remember if you want to test any one of them, remove the (#)
