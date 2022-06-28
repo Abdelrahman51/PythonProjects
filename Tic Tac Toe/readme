@@ -1,0 +1,28 @@
+This is Tic Tac Toe Python game :
+
+1- I Wrote function to print The Board, 	Note: that index only show here.
+
+                                7  | 8 | 9 
+                                ----------
+                                4  | 5 | 6
+                                ----------
+                                1  | 2 | 3 
+
+
+2- I Wrote a function called player_input to assign their marker as 'X' or 'O'
+
+3- I Wrote a function called palce_marker takes the board  as a list object, a marker ('X' or 'O'), and a desired position (number 1-9) and assigns it to the board. 	 Note: this used for testing 
+
+4- I Wrote a function called win_check to check if that player has a mark 'X' or 'O' has won.
+
+5- I Wrote a function called choose_first to randomly decide which player goes first.
+
+6- I Wrote a function called space_check to check a space on the board is freely available to play in it or busy (played in it).
+
+7- I Wrote a function called full_board_check to checks if the board is full or not.
+
+8- I Wrote a function called player_choice to check if the player choose right place and see if that space available to play in it or not.
+
+9- I Wrote a function called replay that asks the player if they want to play again. 
+
+10 - I use while loop to start the game.
