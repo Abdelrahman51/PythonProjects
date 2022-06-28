@@ -1,4 +1,4 @@
-# if you run this code on jupyter remove (#) from clear_output from line 3 and 9
+# if you run this code on jupyter remove (#) from clear_output from line 3 and 9 
 
 #from IPython.display import clear_output
 import random
