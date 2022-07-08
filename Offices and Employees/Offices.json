@@ -1,0 +1,49 @@
+{
+      "Employees": [
+            {
+                  "Id": 1,
+                  "car": {
+                        "fuelRate": 100,
+                        "name": "fiat128",
+                        "velocity": 5
+                  },
+                  "distanceToWork": 20,
+                  "email": "a@a.com",
+                  "healthRate": 25,
+                  "money": 2150,
+                  "mood": "Lazy",
+                  "name": "Samy",
+                  "salary": 1000
+            },
+            {
+                  "Id": 2,
+                  "car": {
+                        "fuelRate": 100,
+                        "name": "BMW",
+                        "velocity": 20
+                  },
+                  "distanceToWork": 200,
+                  "email": "a@a.com",
+                  "healthRate": 50,
+                  "money": 8000,
+                  "mood": "happy",
+                  "name": "Adnan",
+                  "salary": 2500
+            },
+            {
+                  "Id": 3,
+                  "car": {
+                        "fuelRate": 100,
+                        "name": "TOYOTA",
+                        "velocity": 10
+                  },
+                  "distanceToWork": 50,
+                  "email": "a@a.com",
+                  "healthRate": 25,
+                  "money": 5000,
+                  "mood": "tired",
+                  "name": "Mahmoud",
+                  "salary": 2000
+            }
+      ]
+}
